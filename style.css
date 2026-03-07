@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 @media (max-width: 768px){
+	.navbar{
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.menu{
+display:flex;
+flex-direction:row;
+gap:15px;
+}
 	.container-quienes{
 grid-template-columns:1fr;
 }
