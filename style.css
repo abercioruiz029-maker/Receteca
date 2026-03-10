@@ -1303,23 +1303,3 @@ transform:translateY(-5px);
 font-size:18px;
 font-weight:500;
 }
-.video-receteca{
-text-align:center;
-padding:60px;
-}
-
-.btn-video{
-display:inline-block;
-margin-top:20px;
-padding:12px 25px;
-background:#c0392b;
-color:white;
-text-decoration:none;
-font-size:18px;
-border-radius:8px;
-transition:0.3s;
-}
-
-.btn-video:hover{
-background:#e74c3c;
-}
