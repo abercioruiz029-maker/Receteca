@@ -1308,13 +1308,18 @@ text-align:center;
 padding:60px;
 }
 
-.video-container{
-display:flex;
-justify-content:center;
-margin-top:30px;
+.btn-video{
+display:inline-block;
+margin-top:20px;
+padding:12px 25px;
+background:#c0392b;
+color:white;
+text-decoration:none;
+font-size:18px;
+border-radius:8px;
+transition:0.3s;
 }
 
-iframe{
-border-radius:12px;
-box-shadow:0 15px 30px rgba(0,0,0,0.4);
+.btn-video:hover{
+background:#e74c3c;
 }
